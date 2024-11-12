@@ -50,5 +50,5 @@ Miraç - [contact@mirac.dev](mailto:contact@mirac.dev?subject=[GitHub])
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mirac.dev)
 ## License
-Distributed under the MIT License. See [License](https://github.com/lilmirac/discord-cloud/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [License](https://github.com/devmirac/discord-cloud/blob/main/LICENSE) for more information.
 
